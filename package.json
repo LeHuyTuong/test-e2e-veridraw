@@ -1,0 +1,6 @@
+{
+  "name": "mini-ecommerce",
+  "version": "1.0.0",
+  "scripts": { "start": "ts-node src/app.ts" },
+  "dependencies": { "express": "^4.21.0" }
+}
